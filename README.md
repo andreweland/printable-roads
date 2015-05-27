@@ -5,3 +5,5 @@ car-centric - where were all the pedestrian crossings, cycle lanes and pavements
 of my own.
 
 roads.svg and intersection.svg are the original vector files from Inkscape. roads.pdf is a ready-to-print rendering.
+
+Licensed under Creative Commons Attribution-ShareAlike 4.0.
